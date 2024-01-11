@@ -1,0 +1,20 @@
+C dilinin yaraticisi kimdir?;A)Dennis Ritchie;B)Bill Gates;C)Linus Torvalds;D)Mark Zuckerberg;1
+C dilinde 'scanf' fonksiyonu ne ise yarar?;A) Veri yazdirir;B)Dosyadan veri okur;C)Ekran girisi alir;D)Bellek temizler;3
+C dilinde char degiskeni kac bayt yer kaplar?;A)1 bayt;B)2 bayt;C)4 bayt;D)8 bayt;1
+Ataturk'un dogum yili kactir?;A)1923;B)1938;C)2005;D)1881;4
+Ataturk'un olum yili kactir?;A)1903;B)1907;C)1938;D)2024;3
+255 sayisinin 16'lik tabandaki karsiligi nedir?;A)FF;B)AA;C)BB;D)CC;1
+Long double degiskeni kac bayt yer kaplar?;A)1;B)3;C)5;D)10;4
+Malloc ne ise yarar?;A)Bellekten yer ayirmak;B)Ekrana metin yazdirmak;C)Kullanicidan input almak;D)Dizi olusturmak;1
+C dilinde metin tutmak icin hangi degisken kullanilir?;A)char[];B)float;C)bool;D)int;1
+Gazi Universitesi kurulus yili kactir?;A)1926;B)1928;C)1907;D)1918;1
+World Wide Web (www) kim tarafindan icat edildi?;A)Douglas Engelbart;B)Sor Timothy John Berners-Lee;C)Bill Gates;D)Jerry Lawson;2
+Batil bir inanca gore bir saantci kacinci senfonisini yazdiktan veya yazarken olecegine inanilir?;A)6;B)7;C)8;D)9;4
+Turkiye'nin hapis cezasi alan ilk bilgisayar korsani kimdir?;A)Burak Caglar;B)Mahir Arabul;C)Tamer Sahin;D)Tolga Bilge;3
+Python'u kim icat etti?;A)Guido van Rossum;B)James Gosling;C)Brad Pitt;D)George Hotz;1
+Java'yi kim icad etti?;A)George Hotz;B)Bill Gates;C)James Gosling;D)Guido van Rossum;3
+Haziran 2007 yilinda Iphone'u kiran 18 yasindaki hacker kimdir?;A)Steve Jobs;B)Bill Gates;C)Guido van Rossum;D)George Hotz;4
+Hangisi programlama dili degildir?;A)java;B)C;C)Pyhton;D)HTML;4
+Amazon'un kurucusu kimdir?;A)Jeff Bezos;B)Steve Jobs;C)Elon Musk;D)Mark Zuckerberg;1
+Iphone'un kurucusu kimdir?;A)Mark Zuckerberg;B)Jeff Bezos;C)Steve Jobs;D)Elon Musk;3
+A(buyuk a) harfinin ASCII tablosundaki kodu nedir?;A)065;B)066;C)097;D)099;1
